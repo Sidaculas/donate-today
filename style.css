@@ -9,29 +9,69 @@ body{
     background-repeat: no-repeat;
     background-size: cover; 
 }
-.web-header{
+.all-div{
     padding: 50px 80px;
     text-align: center;
     align-items: center;
 }
-.h1-header{
+#h1-top{
     color: white;
-    font-weight: 700;
-    font-size: 70px;
-    padding: 10% 10% 0 10%;
+    font-size: 65px;
 }
-.top-paragraph{
+#para-top{
     color: white;
-    font-weight: 200;
-    font-size: 20px;
+}
+.all-h1{
+    color:black;
+    font-weight: bold;
+    font-size: 45px;
+    padding: 10% 10% 0 10%;
+    margin-top: 5%;
+}
+.all-paragraph{
+    color: black;
+    font-weight: regular;
+    font-size: 18px;
     padding: 0 20% 40px 20%;
     
 }
 .all-link-button{
     color: white;
+    font-weight: 700;
+    font-size: 20px;
     text-decoration: none;
-    padding: 10px 30px;
-    background-color: #00bcd4;
+    padding: 15px 20px;
+    background-color: #FF5959;
     border-radius: 5px;
+    
+}
+.amount-para{
+    margin-top: 50px;
+    margin-bottom: 80px;
+    
+}
+.all-amount{
+    color: #707070;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 40px 30px;
+    background-color: #FAFAFA;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+#second-span{
+    border: 2px solid #FF5959;
+    background-color: #FFEEEE;
+
+}
+#other-amount{
+    font-family: poppins;
+    color: #B3B3B3;
+    padding-bottom: 0;
+}
+hr{
+    width: 50%;
+    color: #DADADA;
+    margin-bottom: 40px;
     
 }
