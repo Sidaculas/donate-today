@@ -75,3 +75,31 @@ hr{
     margin-bottom: 40px;
     
 }
+.middle-div{
+    
+    text-align: left;
+    display: flex;
+}
+.inner-div{
+    width: 50%;
+    padding: 20px;
+    
+}
+.first-box{
+    background-color: #4F9DA6;
+    border-radius: 5px;
+    margin-left: 20px;
+    height: 300px;
+}
+.second-box{
+    background-color:  #FF5959;
+    border-radius: 5px;
+    margin-left: 20px;
+    height: 300px;
+}
+.third-box{
+    background-color: #FFF4D6;
+    border-radius: 5px;
+    margin-left: 20px;
+    height: 300px;
+}
