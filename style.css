@@ -27,6 +27,7 @@ body{
     font-size: 45px;
     padding: 10% 10% 0 10%;
     margin-top: 5%;
+    text-align: center;
 }
 .all-paragraph{
     color: black;
@@ -42,6 +43,16 @@ body{
     text-decoration: none;
     padding: 15px 20px;
     background-color: #FF5959;
+    border-radius: 5px;
+    
+}
+.all-email{
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 15px 20px;
+    background-color: #D9D9D9;
     border-radius: 5px;
     
 }
@@ -102,4 +113,14 @@ hr{
     border-radius: 5px;
     margin-left: 20px;
     height: 300px;
+}
+.subscription-div{
+    background-color: #FFF4D6;
+    height: 200px;
+    width: 90%;
+    text-align: center;
+    padding-top: 150px;
+    margin-left: 90px;
+    margin-right: 30px;
+    
 }
