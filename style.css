@@ -114,6 +114,55 @@ hr{
     margin-left: 20px;
     height: 300px;
 }
+.join-img{
+    width: 80%;
+    
+    
+}
+.join-text{
+    margin-right: 20px;
+    
+    
+    
+}
+.join-us{
+    display: flex;
+    height: 500px;
+    margin-left: 0px;
+    padding-left: 0px;
+    margin-top: 15em;
+    background-color: #FF5959;
+    
+    
+}
+.share-us{
+    display: flex;
+    height: 500px;
+    align-items: center;
+    margin-top: 15em;
+    background-color: #4F9DA6;
+    text-align: center;
+    
+    
+}
+.share-div{
+    margin-left: 200px;
+    padding-left: 100px;
+    
+}
+.share-img{
+    width: 95%;
+    margin-right: 0px;
+    padding-right: 0px;
+}
+.share-text{
+    height: auto;
+    background-color: #FFF4D6;
+    width: 40%;
+    margin-left: 20px;
+    
+    height: 500px;
+}
 .subscription-div{
     background-color: #FFF4D6;
     height: 200px;
