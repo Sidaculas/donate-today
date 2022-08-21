@@ -124,3 +124,19 @@ hr{
     margin-right: 30px;
     
 }
+.footer{
+    background-color: black;
+    height: 100px;
+    text-align: center;
+    padding-top: 30px;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 100px;
+}
+.footer-head{
+    color: #FF5958;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Lobster', cursive;
+}
