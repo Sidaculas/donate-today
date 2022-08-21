@@ -3,7 +3,7 @@ body{
     margin: 0;
 }
 .container{
-    background-image: url(/images/donation13.jpg);
+    background-image: url(./images/donation13.jpg);
     height: 90vh;
     width: 100%;
     background-repeat: no-repeat;
